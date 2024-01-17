@@ -1,3 +1,4 @@
-Dai, Huaiyi
+**Dai, Huaiyi**
 ***
-# EDUCATION
+
+## EDUCATION
