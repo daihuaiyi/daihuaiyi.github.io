@@ -6,6 +6,7 @@ https://daihuaiyi.github.io/
 ## EDUCATION
 ### Master of Computational Engineering Science (2022 - Expected 2024)
 * Technische Universität Berlin (Germany), faculty V (Mechanical Engineering and Transport Systems).
+
 ### Bachelor of Computational Engineering Science (2019 - 2022)
 * Technische Universität Berlin (Germany), faculty V (Mechanical Engineering and Transport Systems).
 * Final Grade: 2,2 (74-79%)
