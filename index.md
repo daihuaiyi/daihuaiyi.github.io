@@ -1,7 +1,7 @@
-**Dai, Huaiyi**
-daihuaiyi@gmail.com
-+49 15236301412
-https://daihuaiyi.github.io/
+**Dai, Huaiyi**  
+daihuaiyi@gmail.com  
++49 15236301412  
+https://daihuaiyi.github.io/  
 
 ## EDUCATION
 ### Master of Computational Engineering Science
